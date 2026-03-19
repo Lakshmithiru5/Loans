@@ -17,4 +17,10 @@ public class AppTest // chnages
     {
         assertTrue( true );
     }
+@Test // newly added
+    public void shouldAnswerWithTrue()
+    {
+        assertTrue( true );
+    }
 }
+
